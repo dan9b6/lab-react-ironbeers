@@ -1,0 +1,15 @@
+.beer__display {
+  display: flex;
+  margin-bottom: 2em;
+  justify-content: space-between;
+  img {
+    width: 20%;
+  }
+}
+
+.beer__descriptiom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: start;
+}
